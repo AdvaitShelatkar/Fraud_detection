@@ -13,12 +13,15 @@ Applied encoding techniques for categorical data.
 Exploratory Data Analysis (EDA):
 
 Analyzed patterns and trends using visualizations.
+
 Identified key features contributing to fraudulent activities.
 
 Machine Learning Models:
 
 Implemented Logistic Regression and Random Forest algorithms.
+
 Evaluated models using metrics such as accuracy, precision, recall, F1 score, and ROC-AUC.
+
 Generated a Confusion Matrix to analyze classification performance.
 
 Visualization with Power BI:
@@ -28,8 +31,17 @@ Created interactive dashboards and visuals showcasing insights into fraud detect
 
 Tools and Technologies
 Python: Data preprocessing, EDA, and model implementation.
+
 Jupyter Notebook: Notebook environment for step-by-step development.
+
 Power BI: Visualization and dashboard creation.
 
 Outcomes
 This project demonstrates a complete pipeline for detecting fraudulent activities, from data preparation and modeling to insightful visualizations.
+
+## Power BI File
+
+Due to file size limitations, the Power BI file is hosted externally. You can download it [here](https://drive.google.com/file/d/1tWowqHBlT8xTBHULD778fETzfmxMLVFm/view?usp=sharing).
+
+After downloading, open it with Power BI Desktop to explore the dashboards and visuals.
+
